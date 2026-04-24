@@ -77,7 +77,7 @@ I am disciplined and highly motivated, working hard to achieve my dreams. I emba
     <img src="https://github-readme-stats.vercel.app/api?username=mahmutburkay&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmutburkay&layout=compact&theme=radical&hide_border=true" height="150" />
   </p>
-  <p align="center">
+  <p align="center"> 
     <img src="https://streak-stats.demolab.com?user=mahmutburkay&theme=radical&hide_border=true" height="150"/>
   </p>
 
